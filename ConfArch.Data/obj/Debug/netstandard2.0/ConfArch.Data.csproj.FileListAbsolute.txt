@@ -1,0 +1,10 @@
+C:\Repos\ConfArch\ConfArch.Data\bin\Debug\netstandard2.0\ConfArch.Data.deps.json
+C:\Repos\ConfArch\ConfArch.Data\bin\Debug\netstandard2.0\ConfArch.Data.dll
+C:\Repos\ConfArch\ConfArch.Data\bin\Debug\netstandard2.0\ConfArch.Data.pdb
+C:\Repos\ConfArch\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.csproj.AssemblyReference.cache
+C:\Repos\ConfArch\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\ConfArch\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.AssemblyInfoInputs.cache
+C:\Repos\ConfArch\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.AssemblyInfo.cs
+C:\Repos\ConfArch\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.csproj.CoreCompileInputs.cache
+C:\Repos\ConfArch\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.dll
+C:\Repos\ConfArch\ConfArch.Data\obj\Debug\netstandard2.0\ConfArch.Data.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14e4d674-ba78-4852-964b-232cb72e96bd": {
+      "ProjectGuid": "14e4d674-ba78-4852-964b-232cb72e96bd",
+      "DisplayName": "ConfArch.Data",
+      "ColorIndex": 0
+    },
+    "ea03f817-a5c4-47c5-8871-6285ecd89f92": {
+      "ProjectGuid": "ea03f817-a5c4-47c5-8871-6285ecd89f92",
+      "DisplayName": "ConfArch.Web",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
